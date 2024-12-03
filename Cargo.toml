@@ -1,0 +1,16 @@
+[package]
+name = "jposta"
+version = "0.1.0"
+edition = "2021"
+description = "A fast and intuitive Terminal User Interface (TUI) tool for searching Japanese postal codes and addresses"
+license = "MIT"
+repository = "https://github.com/nwiizo/jposta"
+documentation = "https://docs.rs/jposta"
+readme = "README.md"
+keywords = ["japan", "postal", "address", "tui", "terminal"]
+categories = ["command-line-utilities", "text-processing"]
+
+[dependencies]
+ratatui = "0.24.0"
+crossterm = "0.27.0"
+jpostcode_rs = "0.1.3"
