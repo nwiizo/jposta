@@ -2,7 +2,7 @@
 
 A fast and intuitive Terminal User Interface (TUI) tool for searching Japanese postal codes and addresses. 🗾
 
-![jposta_demo](.gihub/demo.gif)
+![jposta_demo](.github/demo.gif)
 
 ## ✨ Features
 
