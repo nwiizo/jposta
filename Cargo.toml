@@ -11,6 +11,6 @@ keywords = ["japan", "postal", "address", "tui", "terminal"]
 categories = ["command-line-utilities", "text-processing"]
 
 [dependencies]
-ratatui = "0.24.0"
-crossterm = "0.27.0"
+ratatui = "0.29.0"
+crossterm = "0.28.1"
 jpostcode_rs = "0.1.3"
